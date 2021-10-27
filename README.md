@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# How to install
 
 This project was bootstrapped with npx create-react-app my-app --template typescript
 ## Available Scripts
